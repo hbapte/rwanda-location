@@ -133,7 +133,7 @@ This component makes it easy to navigate this complex structure with a user-frie
 
 Check out the live demo of the Rwanda Location Selector:
 
-🔗 [Live Demo](https://rwanda-location.vercel.app) (Coming Soon)
+🔗 [Live Demo](https://rwanda-location.vercel.app)
 
 ## ⚙️ Installation
 
