@@ -17,7 +17,7 @@
     <a href="https://github.com/hbapte/rwanda-location/issues">
       <img src="https://img.shields.io/github/issues/hbapte/rwanda-location?style=for-the-badge&color=red" alt="Issues" />
     </a>
-    <a href="https://github.com/hbapte/rwanda-location/blob/master/LICENSE">
+    <a href="https://github.com/hbapte/rwanda-location/blob/master/LICENCE">
       <img src="https://img.shields.io/github/license/hbapte/rwanda-location?style=for-the-badge&color=blue" alt="License" />
     </a>
   </p>
