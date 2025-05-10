@@ -1,8 +1,7 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/200x200?text=RLS" alt="Rwanda Location Selector Logo" width="200" height="200" style="border-radius: 20px;" />
-
-  # 🇷🇼 Rwanda Location Selector
+ 
+  # Rwanda Location Selector
 
   <p align="center">
     <strong>A modern, accessible, and user-friendly React component for selecting locations in Rwanda</strong>
@@ -54,12 +53,12 @@
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Rwanda+Location+Selector+Demo" alt="Rwanda Location Selector Demo" width="800" />
+  <img src="https://rwanda-location.vercel.app/screenshot.jpg" alt="Rwanda Location Selector Demo" width="800" />
 </div>
 
 ## 📋 Table of Contents
 
-- [🇷🇼 Rwanda Location Selector](#-rwanda-location-selector)
+- [Rwanda Location Selector](#rwanda-location-selector)
   - [📋 Table of Contents](#-table-of-contents)
   - [✨ Features](#-features)
   - [🌍 Rwanda's Administrative Structure](#-rwandas-administrative-structure)
