@@ -1,3 +1,4 @@
+// rwanda.d.ts
 declare module "rwanda" {
   export function Provinces(): string[];
   export function Districts(province: string): string[];
